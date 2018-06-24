@@ -1,0 +1,8 @@
+com\globant\bootcamp\semana02\model\Astronomy.class
+com\globant\bootcamp\semana02\service\WeatherService.class
+com\globant\bootcamp\semana02\model\Atmosphere.class
+com\globant\bootcamp\semana02\model\Forecast.class
+com\globant\bootcamp\semana02\model\Wind.class
+com\globant\bootcamp\semana02\model\Weather.class
+com\globant\bootcamp\semana02\model\Condition.class
+com\globant\bootcamp\semana02\model\Location.class
